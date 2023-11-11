@@ -1,6 +1,6 @@
 # Fitness-App
 This project shows the detailed development of the software for a fitness app. From the time programming of the project to creating the use cases, robustness diagrams, sequence diagrams and writing the java code.
-It is a project completed by me and a group of fellow students during the 8th semester of our studies as part of Software Technology course. Therefore the reports will be in greek.
+It is a project completed by me and a group of fellow students during the 8th semester of our studies as part of the Software Technology course. Therefore the reports will be in greek.
 
 The original idea:
 
